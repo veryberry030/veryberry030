@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @veryberry030
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m veryberry030
+- 🌱 I’m currently learning AI, BIGDATA
 
 <!---
 veryberry030/veryberry030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
